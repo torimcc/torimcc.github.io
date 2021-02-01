@@ -1,6 +1,6 @@
 # Site
 title:              Tori McCaffrey
-bio:                'Tori McCaffrey'
+bio:                'Technical Program Manager, LinuxForHealth'
 #description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   torimcc
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              tori.mccaffrey@gmail.com
 twitter:            tori_mccaffrey
 github-url:        torimcc
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
