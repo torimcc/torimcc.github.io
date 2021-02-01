@@ -1,6 +1,7 @@
 # Site
 title:              Tori McCaffrey
-bio:                'Technical Program Manager, LinuxForHealth'
+bio:                'Technical Program Manager'
+LFH:                '<a href="https://linuxforhealth.github.io/docs/">LinuxForHealth</a>'
 #description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
